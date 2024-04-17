@@ -1,0 +1,29 @@
+{
+  "name": "react_code",
+  "version": "1.0.0",
+  "description": "This is Daywise React Code Section ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ram8528/WebDevCode.git"
+  },
+  "author": "Ramdeep Kesharwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ram8528/WebDevCode/issues"
+  },
+  "homepage": "https://github.com/ram8528/WebDevCode#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 5 Chrome versions"
+  ]
+}
