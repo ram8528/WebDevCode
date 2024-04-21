@@ -40,7 +40,7 @@ const Title = function () {
   return (
     <div>
       {tit}
-      <h1 className="head">Ramdeep Kesharwani8528397877</h1>
+      <h1 className="head">Coding Stars HII Boss</h1>
       <HeadingComponent />
     </div>
     // In this code we have done 3 task
