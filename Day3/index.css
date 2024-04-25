@@ -1,0 +1,57 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid cyan;
+}
+
+img{
+    width: 100px;
+}
+
+.cart-logo{
+    width: 30px;
+}
+.nav-items{
+    padding: 0px 20px;
+}
+
+.nav-items > ul {
+    display: flex;
+    font-size: 24px ;
+    list-style-type: none;
+}
+
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 65px;
+}
+
+.res-card{
+    margin: 5px;
+    width: 200px;
+    height: 350px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.res-card:hover{
+    border: 1px solid red;
+    cursor: pointer;
+    width: 250px;
+    height: 400px;
+
+}
+.Search{
+    padding: 10px;
+}
+
+.nav-items > ul > li{
+    padding: 10px;
+    margin: 10px;
+}
+
+.res-card1{
+    width: 100%;
+    height: 50%;
+}
